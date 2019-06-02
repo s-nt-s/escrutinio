@@ -1,0 +1,243 @@
+abstencion: 235028
+blancos: 2967
+candidaturas: 256654
+censo: 497998
+codcir: 4
+diputados: 12
+electores: 261773
+interventores: 1197
+nombre: Almería
+nulos: 3349
+partidos:
+  ADELANTE ANDALUCIA: 25160
+  AxSI: 318
+  CILUS: 798
+  Cs: 42432
+  EB: 545
+  EQUO-INICIATIVA: 876
+  FE de las JONS: 224
+  NA: 295
+  PACMA: 3495
+  PCPA: 345
+  PP: 70598
+  PSOE-A: 67309
+  RECORTES CERO - M+J - GV: 348
+  UPYD: 395
+  VOX: 43516
+url: http://www.resultadoseleccionesparlamentoandalucia2018.es/01excel/DatEscrut_Def_2018_Almeria.zip
+validos: 259621
+votos: 262970
+---
+abstencion: 477785
+blancos: 9151
+candidaturas: 501170
+censo: 997581
+codcir: 11
+diputados: 15
+electores: 518650
+interventores: 1146
+nombre: Cádiz
+nulos: 9475
+partidos:
+  ADELANTE ANDALUCIA: 97914
+  ALTER: 560
+  AxSI: 8085
+  Cs: 106636
+  EB: 1319
+  EQUO-INICIATIVA: 2080
+  FE de las JONS: 383
+  NA: 1289
+  PACMA: 11451
+  PCPA: 1015
+  PP: 89637
+  PSOE-A: 121321
+  RECORTES CERO - M+J - GV: 1209
+  UPYD: 944
+  VOX: 57327
+url: http://www.resultadoseleccionesparlamentoandalucia2018.es/01excel/DatEscrut_Def_2018_Cadiz.zip
+validos: 510321
+votos: 519796
+---
+abstencion: 255525
+blancos: 6408
+candidaturas: 376134
+censo: 647427
+codcir: 14
+diputados: 12
+electores: 391126
+interventores: 776
+nombre: Córdoba
+nulos: 9377
+partidos:
+  ADELANTE ANDALUCIA: 64279
+  AxSI: 1606
+  Cs: 67508
+  EB: 1144
+  EQUO-INICIATIVA: 1467
+  FE de las JONS: 335
+  P.C.O.E.: 978
+  PACMA: 5899
+  PCPA: 886
+  PCTE: 0
+  PP: 83838
+  PSOE-A: 111826
+  RECORTES CERO - M+J - GV: 621
+  UPYD: 600
+  VOX: 35147
+url: http://www.resultadoseleccionesparlamentoandalucia2018.es/01excel/DatEscrut_Def_2018_Cordoba.zip
+validos: 382542
+votos: 391902
+---
+abstencion: 322377
+blancos: 5763
+candidaturas: 408016
+censo: 750132
+codcir: 18
+diputados: 13
+electores: 426176
+interventores: 1579
+nombre: Granada
+nulos: 13976
+partidos:
+  ADELANTE ANDALUCIA: 62447
+  AxSI: 1553
+  CAnda: 1189
+  Cs: 76176
+  EQUO-INICIATIVA: 1763
+  IZAR: 280
+  NA: 541
+  PACMA: 7375
+  PCPA: 845
+  PP: 95379
+  PSOE-A: 111380
+  RECORTES CERO - M+J - GV: 950
+  UNIDOS SI-Democracia Efectiva: 326
+  UPYD: 748
+  VOX: 47064
+url: http://www.resultadoseleccionesparlamentoandalucia2018.es/01excel/DatEscrut_Def_2018_Granada.zip
+validos: 413779
+votos: 427755
+---
+abstencion: 180291
+blancos: 3623
+candidaturas: 207899
+censo: 396977
+codcir: 21
+diputados: 11
+electores: 215648
+interventores: 1038
+nombre: Huelva
+nulos: 5164
+partidos:
+  ADELANTE ANDALUCIA: 30187
+  AxSI: 1398
+  Cs: 34393
+  EQUO-INICIATIVA: 812
+  FE de las JONS: 172
+  IxH: 3995
+  NA: 375
+  PACMA: 3208
+  PCPA: 310
+  PP: 47915
+  PSOE-A: 66778
+  RECORTES CERO - M+J - GV: 413
+  UPYD: 307
+  VOX: 17636
+url: http://www.resultadoseleccionesparlamentoandalucia2018.es/01excel/DatEscrut_Def_2018_Huelva.zip
+validos: 211522
+votos: 216686
+---
+abstencion: 200861
+blancos: 4046
+candidaturas: 313583
+censo: 526718
+codcir: 23
+diputados: 11
+electores: 325004
+interventores: 853
+nombre: Jaén
+nulos: 8228
+partidos:
+  ADELANTE ANDALUCIA: 38597
+  AxSI: 957
+  CILU-LINARES: 965
+  CILUS: 847
+  Cs: 50646
+  EQUO-INICIATIVA: 697
+  FE de las JONS: 191
+  NA: 306
+  PACMA: 4103
+  PCPA: 597
+  PP: 73587
+  PSOE-A: 112423
+  RECORTES CERO - M+J - GV: 369
+  RISA: 228
+  Respeto: 1034
+  UPYD: 360
+  VOX: 27676
+url: http://www.resultadoseleccionesparlamentoandalucia2018.es/01excel/DatEscrut_Def_2018_Jaen.zip
+validos: 317629
+votos: 325857
+---
+abstencion: 542575
+blancos: 8944
+candidaturas: 623443
+censo: 1185266
+codcir: 29
+diputados: 17
+electores: 640628
+interventores: 2063
+nombre: Málaga
+nulos: 10304
+partidos:
+  ADELANTE ANDALUCIA: 99075
+  ALTER: 497
+  AxSI: 2435
+  CILUS: 2350
+  ConecAnd: 456
+  Cs: 125235
+  EQUO-INICIATIVA: 3199
+  FE de las JONS: 483
+  IZAR: 374
+  NA: 788
+  PACMA: 15866
+  PCPA: 1234
+  PP: 142746
+  PSOE-A: 152977
+  RECORTES CERO - M+J - GV: 1369
+  SOLUCIONA: 500
+  UPYD: 1130
+  VOX: 72729
+url: http://www.resultadoseleccionesparlamentoandalucia2018.es/01excel/DatEscrut_Def_2018_Malaga.zip
+validos: 632387
+votos: 642691
+---
+abstencion: 627672
+blancos: 16037
+candidaturas: 874753
+censo: 1539977
+codcir: 41
+diputados: 18
+electores: 910485
+interventores: 1820
+nombre: Sevilla
+nulos: 21515
+partidos:
+  ADELANTE ANDALUCIA: 168290
+  ALTER: 930
+  AxSI: 5680
+  Cs: 158345
+  EQUO-INICIATIVA: 4278
+  FE de las JONS: 672
+  NA: 1421
+  P.C.O.E.: 2133
+  PACMA: 18508
+  PCPA: 1203
+  PP: 147078
+  PSOE-A: 266875
+  RECORTES CERO - M+J - GV: 1928
+  UPYD: 1900
+  VOX: 95512
+url: http://www.resultadoseleccionesparlamentoandalucia2018.es/01excel/DatEscrut_Def_2018_Sevilla.zip
+validos: 890790
+votos: 912305

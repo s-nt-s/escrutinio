@@ -1,0 +1,347 @@
+tipo: cabildo
+fecha: 1987-06-10
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/06_198706_1.zip
+- data/cabildo/muni_1987.06.10.xlsx
+---
+tipo: cabildo
+fecha: 1991-05-26
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/06_199105_1.zip
+- data/cabildo/muni_1991.05.26.xlsx
+---
+tipo: cabildo
+fecha: 1995-05-28
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/06_199505_1.zip
+- data/cabildo/muni_1995.05.28.xlsx
+---
+tipo: cabildo
+fecha: 1999-06-13
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/06_199906_1.zip
+- data/cabildo/muni_1999.06.13.xlsx
+---
+tipo: cabildo
+fecha: 2003-05-25
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/06_200305_1.zip
+- data/cabildo/muni_2003.05.25.xlsx
+---
+tipo: cabildo
+fecha: 2007-05-27
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/06_200705_1.zip
+- data/cabildo/muni_2007.05.27.xlsx
+---
+tipo: cabildo
+fecha: 2011-05-22
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/06_201105_1.zip
+- data/cabildo/muni_2011.05.22.xlsx
+---
+tipo: cabildo
+fecha: 2015-05-24
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/06_201505_1.zip
+- data/cabildo/muni_2015.05.24.xlsx
+---
+tipo: congreso
+fecha: 1977-06-15
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/02_197706_1.zip
+- data/congreso/muni_1977.06.15.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_02_197706_1.zip
+- data/congreso/prov_1977.06.15.xlsx
+---
+tipo: congreso
+fecha: 1979-03-01
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/02_197903_1.zip
+- data/congreso/muni_1979.03.01.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_02_197903_1.zip
+- data/congreso/prov_1979.03.01.xlsx
+---
+tipo: congreso
+fecha: 1982-10-28
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/02_198210_1.zip
+- data/congreso/muni_1982.10.28.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_02_198210_1.zip
+- data/congreso/prov_1982.10.28.xlsx
+---
+tipo: congreso
+fecha: 1986-06-22
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/02_198606_1.zip
+- data/congreso/muni_1986.06.22.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_02_198606_1.zip
+- data/congreso/prov_1986.06.22.xlsx
+---
+tipo: congreso
+fecha: 1989-10-29
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/02_198910_1.zip
+- data/congreso/muni_1989.10.29.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_02_198910_1.zip
+- data/congreso/prov_1989.10.29.xlsx
+---
+tipo: congreso
+fecha: 1993-06-06
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/02_199306_1.zip
+- data/congreso/muni_1993.06.06.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_02_199306_1.zip
+- data/congreso/prov_1993.06.06.xlsx
+---
+tipo: congreso
+fecha: 1996-03-03
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/02_199603_1.zip
+- data/congreso/muni_1996.03.03.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_02_199603_1.zip
+- data/congreso/prov_1996.03.03.xlsx
+---
+tipo: congreso
+fecha: 2000-03-12
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/02_200003_1.zip
+- data/congreso/muni_2000.03.12.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_02_200003_1.zip
+- data/congreso/prov_2000.03.12.xlsx
+---
+tipo: congreso
+fecha: 2004-03-14
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/02_200403_1.zip
+- data/congreso/muni_2004.03.14.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_02_200403_1.zip
+- data/congreso/prov_2004.03.14.xlsx
+---
+tipo: congreso
+fecha: 2008-03-09
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/02_200803_1.zip
+- data/congreso/muni_2008.03.09.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_02_200803_1.zip
+- data/congreso/prov_2008.03.09.xlsx
+---
+tipo: congreso
+fecha: 2011-11-20
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/02_201111_1.zip
+- data/congreso/muni_2011.11.20.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_02_201111_1.zip
+- data/congreso/prov_2011.11.20.xlsx
+---
+tipo: congreso
+fecha: 2015-12-20
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/02_201512_1.zip
+- data/congreso/muni_2015.12.20.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_02_201512_1.zip
+- data/congreso/prov_2015.12.20.xlsx
+---
+tipo: congreso
+fecha: 2016-06-26
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/02_201606_1.zip
+- data/congreso/muni_2016.06.26.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_02_201606_1.zip
+- data/congreso/prov_2016.06.26.xlsx
+---
+tipo: europeas
+fecha: 1987-06-13
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/07_198706_1.zip
+- data/europeas/muni_1987.06.13.xlsx
+---
+tipo: europeas
+fecha: 1989-06-15
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/07_198906_1.zip
+- data/europeas/muni_1989.06.15.xlsx
+---
+tipo: europeas
+fecha: 1994-06-12
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/07_199406_1.zip
+- data/europeas/muni_1994.06.12.xlsx
+---
+tipo: europeas
+fecha: 1999-06-13
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/07_199906_1.zip
+- data/europeas/muni_1999.06.13.xlsx
+---
+tipo: europeas
+fecha: 2004-06-13
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/07_200406_1.zip
+- data/europeas/muni_2004.06.13.xlsx
+---
+tipo: europeas
+fecha: 2009-06-07
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/07_200906_1.zip
+- data/europeas/muni_2009.06.07.xlsx
+---
+tipo: europeas
+fecha: 2014-05-25
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/07_201405_1.zip
+- data/europeas/muni_2014.05.25.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_07_201405_1.zip
+- data/europeas/prov_2014.05.25.xlsx
+---
+tipo: municipal
+fecha: 1987-06-10
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/04_198706_1.zip
+- data/municipal/muni_1987.06.10.xlsx
+---
+tipo: municipal
+fecha: 1991-05-26
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/04_199105_1.zip
+- data/municipal/muni_1991.05.26.xlsx
+---
+tipo: municipal
+fecha: 1995-05-28
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/04_199505_1.zip
+- data/municipal/muni_1995.05.28.xlsx
+---
+tipo: municipal
+fecha: 1999-06-13
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/04_199906_1.zip
+- data/municipal/muni_1999.06.13.xlsx
+---
+tipo: municipal
+fecha: 2003-05-25
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/04_200305_1.zip
+- data/municipal/muni_2003.05.25.xlsx
+---
+tipo: municipal
+fecha: 2007-05-27
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/04_200705_1.zip
+- data/municipal/muni_2007.05.27.xlsx
+---
+tipo: municipal
+fecha: 2011-05-22
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/04_201105_1.zip
+- data/municipal/muni_2011.05.22.xlsx
+---
+tipo: municipal
+fecha: 2015-05-24
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/04_201505_1.zip
+- data/municipal/muni_2015.05.24.xlsx
+---
+tipo: referendum
+fecha: 1976-12-15
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_01_197612_1.zip
+- data/referendum/prov_1976.12.15.xlsx
+---
+tipo: referendum
+fecha: 1978-12-06
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_01_197812_1.zip
+- data/referendum/prov_1978.12.06.xlsx
+---
+tipo: referendum
+fecha: 1986-03-12
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/01_198603_1.zip
+- data/referendum/muni_1986.03.12.xlsx
+---
+tipo: referendum
+fecha: 2005-02-20
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/01_200502_1.zip
+- data/referendum/muni_2005.02.20.xlsx
+---
+tipo: senado
+fecha: 1977-06-15
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_03_197706_1.zip
+- data/senado/prov_1977.06.15.xlsx
+---
+tipo: senado
+fecha: 1979-03-01
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_03_197903_1.zip
+- data/senado/prov_1979.03.01.xlsx
+---
+tipo: senado
+fecha: 1982-10-28
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_03_198210_1.zip
+- data/senado/prov_1982.10.28.xlsx
+---
+tipo: senado
+fecha: 1986-06-22
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/03_198606_1.zip
+- data/senado/muni_1986.06.22.xlsx
+---
+tipo: senado
+fecha: 1989-10-29
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/03_198910_1.zip
+- data/senado/muni_1989.10.29.xlsx
+---
+tipo: senado
+fecha: 1993-06-06
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/03_199306_1.zip
+- data/senado/muni_1993.06.06.xlsx
+---
+tipo: senado
+fecha: 1996-03-03
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/03_199603_1.zip
+- data/senado/muni_1996.03.03.xlsx
+---
+tipo: senado
+fecha: 2000-03-12
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/03_200003_1.zip
+- data/senado/muni_2000.03.12.xlsx
+---
+tipo: senado
+fecha: 2004-03-14
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/03_200403_1.zip
+- data/senado/muni_2004.03.14.xlsx
+---
+tipo: senado
+fecha: 2008-03-09
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/03_200803_1.zip
+- data/senado/muni_2008.03.09.xlsx
+---
+tipo: senado
+fecha: 2011-11-20
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/03_201111_1.zip
+- data/senado/muni_2011.11.20.xlsx
+---
+tipo: senado
+fecha: 2015-12-20
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/03_201512_1.zip
+- data/senado/muni_2015.12.20.xlsx
+---
+tipo: senado
+fecha: 2016-06-26
+archivos:
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/03_201606_1.zip
+- data/senado/muni_2016.06.26.xlsx
+- http://www.infoelectoral.mir.es/infoelectoral/docxl/PROV_03_201606_1.zip
+- data/senado/prov_2016.06.26.xlsx
